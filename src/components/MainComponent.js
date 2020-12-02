@@ -23,7 +23,7 @@ class Main extends Component {
         };
     }    
   
-
+    // on line 33 the explanation for filter
     render() {
 
         const CampsiteWithId = ({match}) => {
