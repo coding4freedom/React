@@ -5,8 +5,9 @@
     "\\public\\assets",
     "\\src",
     "\\src\\components",
+    "\\src\\redux",
     "\\src\\shared"
   ],
-  "SelectedNode": "\\src\\components\\ContactComponent.js",
+  "SelectedNode": "\\src\\redux\\ActionCreators.js",
   "PreviewInSolutionExplorer": false
 }
